@@ -12,7 +12,7 @@ application. To develop the application, maintain the following databases.
 
 1. Restaurant database – Records of restaurants with details like address/area, no-of-seats, 
 special facilities, menu etc, 
-2. Agents-database - Each agent identified by agent-id, name, phone No., currentlyaccumulated-commission etc. 
+2. Agents-database - Each agent identified by agent-id, name, phone No., currently accumulated-commission etc. 
 3. User-database, each user identified by user-id, name, address, phone no, etc. For every 
 user, a record of all previous orders is also kept.
 
