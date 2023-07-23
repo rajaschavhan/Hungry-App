@@ -38,10 +38,10 @@ global order database is removed which also frees the respective agent. It also 
 frees the agent.
 
 9. FindFavoriteFoodsOfUser(user-id) : For the given user-id, find top 3 favorite food 
-items based on previous orders of the last 3 months.
+items based on previous orders.
 
-11. FindFavoriteRestaurants(int N) : Finds the top-3 restaurants that have got 
-maximum orders in the last N days.
+11. FindFavoriteRestaurants() : Finds the top-3 restaurants that have got 
+maximum orders.
 
-13. FindFavoriteFoodsAcrossRestaurants(int N) : Finds the top-3 ordered most 
-favorite food items in the last N days
+13. FindFavoriteFoodsAcrossRestaurants() : Finds the top-3 ordered most 
+favorite food items.
