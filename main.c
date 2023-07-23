@@ -127,7 +127,7 @@ int main(){
 
 
     }
-    FindFavoriteFoodsAcrossRestaurants(5);
+    FindFavoriteFoodsAcrossRestaurants();
 
     delivery(res_list);
     delivery(res_list);
