@@ -127,7 +127,7 @@ void search_by_area(rNode *res_list, char add[]){
 
 
 
-void FindFavoriteFoodsAcrossRestaurants(int N){
+void FindFavoriteFoodsAcrossRestaurants(){
 
 	oNode *o_start=list.front;
 	item *favlist=NULL,*last=NULL;
